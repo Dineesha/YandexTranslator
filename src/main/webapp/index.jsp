@@ -28,6 +28,7 @@
 
                </fieldset>
            </form>
+           <a href=" http://translate.yandex.com/">Powered by Yandex.Translate</a>
 </table>
 </body>
 </html>
